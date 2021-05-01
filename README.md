@@ -15,3 +15,13 @@ This tool is made for only Educational Purposes only. Don't try to harm anyone w
 
 #cd Dark-fb-cloner
 
+#ls
+
+#Chmod +x *
+
+#python2 Dark-fb-cloner.py
+
+# Login
+Username: Dark
+
+Password:Hacker
