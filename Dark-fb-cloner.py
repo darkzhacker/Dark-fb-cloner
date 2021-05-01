@@ -108,9 +108,9 @@ CorrectPassword = "Hacker"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[🦇] \x1b[1;96m𝔼𝕟𝕥𝕖𝕣 𝔸 𝔽𝕒𝕜𝕖 𝔸𝕔𝕔𝕠𝕦𝕟𝕥 \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[🦇] \x1b[1;96m𝔼𝕟𝕥𝕖𝕣 Username \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[🦇] \x1b[1;96m𝐄𝐍𝐓𝐄𝐑 𝐘𝐎𝐔𝐑 𝐏𝐀𝐒𝐒𝐖𝐎𝐑𝐃l \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[🦇] \x1b[1;96m𝐄𝐍𝐓𝐄𝐑 𝐏𝐀𝐒𝐒𝐖𝐎𝐑𝐃 \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
